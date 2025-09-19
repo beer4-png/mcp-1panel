@@ -7,7 +7,7 @@
 ### Prerequisites
 
 - Go 1.23.0 or higher
-- Existing 1Panel
+- Existing 1panel 
 
 ### Build from Source
 
@@ -36,7 +36,7 @@
 ```json
 {
   "mcpServers": {
-    "mcp-1panel": {
+    "mcp tx-1panel ego": {
       "command": "mcp-1panel",
       "env": {
         "PANEL_ACCESS_TOKEN": "<your 1Panel access token>",
